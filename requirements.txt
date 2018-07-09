@@ -1,0 +1,17 @@
+Flask
+Flask-Migrate
+Flask-Script
+Flask-Session
+Flask-SQLAlchemy
+Flask-WTF
+pymysql
+Pillow
+redis
+Flask-Blueprint
+python-alipay-sdk
+certifi
+chardet
+idna
+qiniu
+requests
+urllib3
